@@ -27,6 +27,7 @@ Welcome to this repository! Here, you'll find a collection of valuable links to 
 - [Embedded Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
 - [Yocto & Embedded Linux](https://www.yoctoproject.org/)
 - [TechLeef (YouTube)](https://www.youtube.com/@techleef-tn), [TechLeef Discord](https://discord.com/invite/techleef)
+- [The Engineering Projects](https://www.theengineeringprojects.com/)
 
 ---
 
@@ -51,6 +52,7 @@ Welcome to this repository! Here, you'll find a collection of valuable links to 
 - [SnapEDA - Electronic Components Library](https://www.snapeda.com/)
 - [WE Online](https://www.we-online.com/en)
 - [Octopart PCB Libraries](https://octopart.componentsearchengine.com/pcb-libraries.php)
+- [Youtube chanel Robert Feranec](https://www.youtube.com/@RobertFeranec)
 
 ---
 
