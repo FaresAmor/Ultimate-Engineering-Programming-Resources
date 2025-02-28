@@ -35,6 +35,7 @@ Welcome to this repository! Here, you'll find a collection of valuable links to 
 - [STM32 Projects](https://www.hackster.io/stm32/projects)
 - [STM32 Courses](https://www.st.com/content/st_com/en/support/learning/stm32-education/stm32-moocs.html)
 - [STM32 Python Resources](https://stm32python.gitlab.io/fr/)
+- [STM32 almohandes Arabic Tuto](https://almohandes.org/t/%D8%AA%D8%B9%D9%84%D9%85-%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A7%D9%84%D8%A3%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%85%D8%AC%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%AF%D9%82%D9%8A%D9%82-stm32-%D8%A7%D9%84%D9%85%D8%B9%D8%AA%D9%85%D8%AF-%D8%B9%D9%84%D9%89-%D9%86%D9%88%D8%A7%D8%A9-arm-cortex-m4/188982)
 
 ---
 
