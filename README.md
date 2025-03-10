@@ -28,6 +28,7 @@ Welcome to this repository! Here, you'll find a collection of valuable links to 
 - [Yocto & Embedded Linux](https://www.yoctoproject.org/)
 - [TechLeef (YouTube)](https://www.youtube.com/@techleef-tn), [TechLeef Discord](https://discord.com/invite/techleef)
 - [The Engineering Projects](https://www.theengineeringprojects.com/)
+- [learn about Test Driver Development in Embedded Systems](https://github.com/yahyatawil/ES-TDD-Resources)
 
 ---
 
