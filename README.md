@@ -1,6 +1,6 @@
 # 📚 Ultimate Engineering & Programming Resources
 
-Welcome to this repository! Here, you'll find a collection of valuable links to courses, books, and tools covering various domains, including Web Development, AI, Embedded Systems, STM32, and more. These resources will help you improve your skills and deepen your knowledge in engineering and programming.
+Welcome to this repository! Here, you'll find a collection of valuable links to courses, books, and tools covering various domains, including Web Development, AI, Embedded Systems, STM32 , and more. These resources will help you improve your skills and deepen your knowledge in engineering and programming.
 
 ---
 
